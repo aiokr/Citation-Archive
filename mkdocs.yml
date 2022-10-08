@@ -1,0 +1,19 @@
+site_name: 瞬间文档
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: white
+      accent: cyan
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: yellow
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  logo: assets/Press-Logo-Color.png
+  favicon: assets/Press-Logo-Color.png
