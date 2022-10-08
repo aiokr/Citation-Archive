@@ -1,4 +1,8 @@
 site_name: 瞬间文档
+site_author: "Komorebi"
+# Repository
+repo_name: "GitHub"
+repo_url: "https://github.com/aiokr/Tripper-Docs"
 theme:
   name: material
   palette:
