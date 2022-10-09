@@ -1,1 +1,1 @@
-mkdocs build --config-file mkdocs.yml
+mkdocs build
