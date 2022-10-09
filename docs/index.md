@@ -1,2 +1,2 @@
-# Tripper Docs 
+# Tripper Resources 
 

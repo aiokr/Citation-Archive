@@ -1,12 +1,12 @@
-site_name: 瞬间文档
+site_name: 瞬间Resources
 site_author: "Komorebi"
-site_url: "https://docs.tripper.press"
+site_url: "https://mk.tripper.press"
 extra_css:
   - css/extra.css
 # Repository
 repo_name: "GitHub"
-repo_name: aiokr/Tripper-Docs
-repo_url: "https://github.com/aiokr/Tripper-Docs"
+repo_name: aiokr/Tripper-Docs-Mkdocs
+repo_url: "https://github.com/aiokr/Tripper-Docs-Mkdocs"
 theme:
   name: material
   palette:
@@ -23,8 +23,6 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-  logo: assets/Press-Logo-1.png
-  favicon: assets/Press-Logo-Color.png
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
