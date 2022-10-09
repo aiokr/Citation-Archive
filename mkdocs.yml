@@ -5,6 +5,7 @@ extra_css:
   - css/extra.css
 # Repository
 repo_name: "GitHub"
+repo_name: aiokr/Tripper-Docs
 repo_url: "https://github.com/aiokr/Tripper-Docs"
 theme:
   name: material
@@ -17,10 +18,14 @@ theme:
         icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
-      primary: blue grey
+      primary: grey
       accent: white
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
   logo: assets/Press-Logo-1.png
   favicon: assets/Press-Logo-Color.png
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
